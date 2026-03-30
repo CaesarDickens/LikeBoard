@@ -4,8 +4,8 @@ import { coinbaseWallet, injected } from "wagmi/connectors";
 import { base } from "wagmi/chains";
 
 export const DATA_SUFFIX = Attribution.toDataSuffix({
-  // Replace BUILDER_CODE_PLACEHOLDER with your real Builder Code.
-  codes: ["BUILDER_CODE_PLACEHOLDER"],
+  // Replace with your real Builder Code when rotating attribution.
+  codes: ["bc_oz5f4jp0"],
 });
 
 export const wagmiConfig = createConfig({
