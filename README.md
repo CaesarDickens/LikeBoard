@@ -38,3 +38,11 @@ You can use one of the following package managers:
 - bun
 
 ## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/CaesarDickens/LikeBoard.git
+```
+
+Move into the project directory:
