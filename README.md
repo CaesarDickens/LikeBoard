@@ -149,3 +149,11 @@ For more deployment details, see the official documentation:
 - [Learn Next.js](https://nextjs.org/learn)
 - [Next.js GitHub Repository](https://github.com/vercel/next.js)
 - [`create-next-app` Documentation](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
+
+## Notes
+
+Keep dependencies up to date as the project evolves.
+
+Use the existing Next.js structure when adding new pages, routes, styles, or components.
+
+Review the official Next.js documentation when changing framework-specific configuration.
