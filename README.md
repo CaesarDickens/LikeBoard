@@ -21,3 +21,11 @@ The main application entry point can be edited from `app/page.tsx`.
 - Uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 - Automatically optimizes and loads the [Geist](https://vercel.com/font) font family
 - Ready to build on the standard Next.js development workflow
+
+## Getting Started
+
+Follow the steps below to run LikeBoard locally.
+
+## Prerequisites
+
+Make sure you have a JavaScript runtime and package manager installed.
