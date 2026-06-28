@@ -46,3 +46,11 @@ git clone https://github.com/CaesarDickens/LikeBoard.git
 ```
 
 Move into the project directory:
+
+```bash
+cd LikeBoard
+```
+
+Install dependencies with your preferred package manager:
+
+```bash
