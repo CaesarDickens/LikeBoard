@@ -29,3 +29,12 @@ Follow the steps below to run LikeBoard locally.
 ## Prerequisites
 
 Make sure you have a JavaScript runtime and package manager installed.
+
+You can use one of the following package managers:
+
+- npm
+- yarn
+- pnpm
+- bun
+
+## Installation
