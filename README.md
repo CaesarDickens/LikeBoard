@@ -132,3 +132,11 @@ npm run start
 ```
 
 Use the equivalent commands if you prefer another package manager.
+
+## Deployment
+
+LikeBoard can be deployed using the standard Next.js deployment process.
+
+The easiest deployment path for a Next.js application is the [Vercel Platform](https://vercel.com/new?filter=next.js).
+
+For more deployment details, see the official documentation:
