@@ -116,3 +116,11 @@ The `public/` directory is used for static assets.
 This project uses `next/font` to optimize font loading.
 
 The default font configured by the starter is Geist, a font family provided by Vercel.
+
+## Building for Production
+
+To create a production build, run:
+
+```bash
+npm run build
+```
