@@ -140,3 +140,12 @@ LikeBoard can be deployed using the standard Next.js deployment process.
 The easiest deployment path for a Next.js application is the [Vercel Platform](https://vercel.com/new?filter=next.js).
 
 For more deployment details, see the official documentation:
+
+[Next.js Deployment Documentation](https://nextjs.org/docs/app/building-your-application/deploying)
+
+## Useful Resources
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Learn Next.js](https://nextjs.org/learn)
+- [Next.js GitHub Repository](https://github.com/vercel/next.js)
+- [`create-next-app` Documentation](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
