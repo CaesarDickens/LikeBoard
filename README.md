@@ -13,3 +13,11 @@ It is set up for local development, fast page updates, and deployment using comm
 The main application entry point can be edited from `app/page.tsx`.
 
 ## Features
+
+- Built with [Next.js](https://nextjs.org)
+- Created using `create-next-app`
+- Uses the App Router project structure
+- Supports local development with live updates
+- Uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
+- Automatically optimizes and loads the [Geist](https://vercel.com/font) font family
+- Ready to build on the standard Next.js development workflow
