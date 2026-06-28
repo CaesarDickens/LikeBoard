@@ -54,3 +54,11 @@ cd LikeBoard
 Install dependencies with your preferred package manager:
 
 ```bash
+npm install
+```
+
+Or use one of the alternatives:
+
+```bash
+yarn install
+pnpm install
