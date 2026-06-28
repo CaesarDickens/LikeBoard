@@ -124,3 +124,11 @@ To create a production build, run:
 ```bash
 npm run build
 ```
+
+Then start the production server:
+
+```bash
+npm run start
+```
+
+Use the equivalent commands if you prefer another package manager.
