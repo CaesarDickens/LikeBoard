@@ -101,3 +101,10 @@ A typical Next.js project includes files and folders such as:
 
 ```text
 app/
+public/
+package.json
+next.config.*
+tsconfig.json
+```
+
+The `app/` directory contains the application routes and pages.
