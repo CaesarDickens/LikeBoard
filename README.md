@@ -108,3 +108,11 @@ tsconfig.json
 ```
 
 The `app/` directory contains the application routes and pages.
+
+The `public/` directory is used for static assets.
+
+## Fonts
+
+This project uses `next/font` to optimize font loading.
+
+The default font configured by the starter is Geist, a font family provided by Vercel.
