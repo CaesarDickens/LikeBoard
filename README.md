@@ -62,3 +62,11 @@ Or use one of the alternatives:
 ```bash
 yarn install
 pnpm install
+bun install
+```
+
+## Running the Development Server
+
+Start the development server:
+
+```bash
