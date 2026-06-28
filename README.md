@@ -92,3 +92,12 @@ To begin editing the main page, update:
 ```text
 app/page.tsx
 ```
+
+The page will automatically update in the browser as you save changes.
+
+## Project Structure
+
+A typical Next.js project includes files and folders such as:
+
+```text
+app/
